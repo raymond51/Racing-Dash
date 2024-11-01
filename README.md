@@ -12,4 +12,4 @@ The display comes with a capacitive touch screen to provide the driver with addi
 
 ## GUI
 
-<img src="images/img_screens.PNG" alt="screens" width="800"/>
+<img src="images/img_screens.png" alt="screens" width="800"/>
