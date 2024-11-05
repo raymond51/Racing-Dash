@@ -10,7 +10,7 @@ The display comes with a capacitive touch screen to provide the driver with addi
 
 &nbsp;
 
-<img src="images/img_annotation.PNG" alt="features" width="800"/>
+<img src="images/img_annotation.png" alt="features" width="800"/>
 
 ## Features
 
