@@ -8,6 +8,10 @@ Housed in a lightweight enclosure, the dash features an sunlight readable (>800 
 
 The display comes with a capacitive touch screen to provide the driver with additional configurability, and with custom UI created using LVGL.
 
+&nbsp;
+
+<img src="images/img_annotation.PNG" alt="features" width="800"/>
+
 ## Features
 
 <img src="images/img_features.PNG" alt="features" width="800"/>
